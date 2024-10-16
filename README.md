@@ -1,3 +1,3 @@
 # Curring
 
-In my code starting I am making a async function named Curring and then a try where I fetch 2 APIs and then
+In my code starting I am making a async function named Curring and then a try where I fetch 2 APIs and then if any error then that will be handle by try catch Then i made a curring function which has 2 inner function then its function is to find that user is avaialabe or not if availabe then it will find its id and then finds its from by comparing that it with other api link then tell how many post have been by that user and at the end i call the function and pass 3 parameters according to recurring syntax and then alert our result.
